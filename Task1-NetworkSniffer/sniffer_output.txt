@@ -1,0 +1,117 @@
+﻿======================================================================
+  CodeAlpha - Basic Network Sniffer
+  Param Parag Koli | Cyber Security Internship
+======================================================================
+
+Starting packet capture... Press Ctrl+C to stop.
+
+[20:48:14] Packet #1
+  Protocol: UDP
+  Source IP: 26.82.51.226:60947
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:48:15] Packet #2
+  Protocol: UDP
+  Source IP: 26.82.51.226:60947
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:48:16] Packet #3
+  Protocol: UDP
+  Source IP: 26.82.51.226:60947
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:48:17] Packet #4
+  Protocol: UDP
+  Source IP: 26.82.51.226:60947
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:48:57] Packet #5
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 82 bytes
+----------------------------------------------------------------------
+[20:48:58] Packet #7
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 82 bytes
+----------------------------------------------------------------------
+[20:49:00] Packet #9
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 82 bytes
+----------------------------------------------------------------------
+[20:50:14] Packet #11
+  Protocol: UDP
+  Source IP: 26.82.51.226:49872
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:50:15] Packet #12
+  Protocol: UDP
+  Source IP: 26.82.51.226:49872
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:50:16] Packet #13
+  Protocol: UDP
+  Source IP: 26.82.51.226:49872
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:50:17] Packet #14
+  Protocol: UDP
+  Source IP: 26.82.51.226:49872
+  Destination IP: 239.255.255.250:1900
+  Packet Size: 212 bytes
+  Payload (first 50 bytes): b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nM'
+----------------------------------------------------------------------
+[20:51:35] Packet #15
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 228 bytes
+----------------------------------------------------------------------
+[20:51:35] Packet #17
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 91 bytes
+----------------------------------------------------------------------
+[20:51:35] Packet #19
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 91 bytes
+----------------------------------------------------------------------
+[20:51:35] Packet #21
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 91 bytes
+----------------------------------------------------------------------
+[20:51:35] Packet #23
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 385 bytes
+----------------------------------------------------------------------
+[20:51:35] Packet #25
+  Protocol: UDP
+  Source IP: 26.82.51.226:5353
+  Destination IP: 224.0.0.251:5353
+  Packet Size: 323 bytes
+----------------------------------------------------------------------
